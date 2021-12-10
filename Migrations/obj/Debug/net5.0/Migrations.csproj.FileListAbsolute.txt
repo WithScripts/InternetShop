@@ -1,0 +1,17 @@
+E:\GitHubRepos\InternetShop\Migrations\bin\Debug\net5.0\Migrations.deps.json
+E:\GitHubRepos\InternetShop\Migrations\bin\Debug\net5.0\Migrations.dll
+E:\GitHubRepos\InternetShop\Migrations\bin\Debug\net5.0\ref\Migrations.dll
+E:\GitHubRepos\InternetShop\Migrations\bin\Debug\net5.0\Migrations.pdb
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\Migrations.csproj.AssemblyReference.cache
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\Migrations.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\Migrations.AssemblyInfoInputs.cache
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\Migrations.AssemblyInfo.cs
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\Migrations.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\Migrations.dll
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\ref\Migrations.dll
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\Migrations.pdb
+E:\GitHubRepos\InternetShop\Migrations\bin\Debug\net5.0\Contracts.dll
+E:\GitHubRepos\InternetShop\Migrations\bin\Debug\net5.0\Entities.dll
+E:\GitHubRepos\InternetShop\Migrations\bin\Debug\net5.0\Contracts.pdb
+E:\GitHubRepos\InternetShop\Migrations\bin\Debug\net5.0\Entities.pdb
+E:\GitHubRepos\InternetShop\Migrations\obj\Debug\net5.0\Migrations.csproj.CopyComplete

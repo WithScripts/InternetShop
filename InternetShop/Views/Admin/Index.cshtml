@@ -1,0 +1,32 @@
+﻿@model RepositoryManager
+<h2>Товары</h2>
+<div class="row mt-5 mb-2">
+    <div>
+        <a class="btn btn-dark" asp-controller="Admin" asp-action="AddProduct">Добавить Продукт</a><br />
+        <a class="btn btn-dark" asp-controller="Admin" asp-action="AddCategory">Добавить Категорию</a>
+    </div>
+    <div>
+        <a class="btn btn-dark" asp-controller="Admin" asp-action="AddCategoryProduct">Добавить категорию продукту</a><br />
+        <a class="btn btn-dark" asp-controller="Admin" asp-action="RemoveCategoryProduct">Удалить категорию продукта</a>
+    </div>
+    @{ foreach (var el in Model.Product.GetProducts())
+        {
+            <div class="col-lg-4">
+                <h2>@el.Id @el.Title</h2>
+                <p>@el.Description</p>
+                <p>Цена: @el.Cost.ToString("c")</p>
+                <p><a class="btn btn-dark" asp-controller="Admin" asp-action="EditProduct" asp-route-id="@el.Id">Изменить</a></p>
+                @Html.ActionLink("Удалить", "DeleteProduct", "Admin", new { prodcutId = el.Id })
+            </div>
+        }
+    }
+    @{ foreach (var el in Model.Category.GetCategories())
+        {
+            <div class="col-lg-4">
+                <h2>@el.Id @el.Title</h2>
+                <p><a class="btn btn-dark" asp-controller="Admin" asp-action="EditCategory" asp-route-id="@el.Id">Изменить</a></p>
+                @Html.ActionLink("Удалить", "DeleteCategory", "Admin", new { categoryId = el.Id})
+            </div>
+        }
+     }
+</div>

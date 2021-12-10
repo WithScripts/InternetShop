@@ -1,0 +1,17 @@
+﻿@model ProductForCreationDto
+<div>
+    <p>Добавить товар</p>
+</div>
+<div>
+    @using (Html.BeginForm())
+    {
+        <div class="panel-body">
+            @Html.EditorForModel()
+        </div>
+        <div class="panel-footer">
+            <input type="submit" value="Добавить" />
+            @Html.ActionLink("Отмена", "Index", "Admin", new { @class = "btn btn-dark" })
+        </div>
+    }
+
+</div>

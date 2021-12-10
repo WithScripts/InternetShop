@@ -1,0 +1,16 @@
+﻿@model ProductForCreationDto
+<div class="panel">
+    <div>
+        <h1>Редактирование товара: @Model.Title</h1>
+    </div>
+    @using (Html.BeginForm())
+    {
+        <div class="panel-body">
+            @Html.EditorForModel()
+        </div>
+        <div class="panel-footer">
+            <input type="submit" value="Редактировать" />
+            @Html.ActionLink("Отмена", "Index")
+        </div>
+    }
+</div>

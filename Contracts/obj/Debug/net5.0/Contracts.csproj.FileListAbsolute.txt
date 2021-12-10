@@ -1,0 +1,15 @@
+E:\GitHubRepos\InternetShop\Contracts\bin\Debug\net5.0\Contracts.deps.json
+E:\GitHubRepos\InternetShop\Contracts\bin\Debug\net5.0\Contracts.dll
+E:\GitHubRepos\InternetShop\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+E:\GitHubRepos\InternetShop\Contracts\bin\Debug\net5.0\Contracts.pdb
+E:\GitHubRepos\InternetShop\Contracts\bin\Debug\net5.0\Entities.dll
+E:\GitHubRepos\InternetShop\Contracts\bin\Debug\net5.0\Entities.pdb
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\Contracts.dll
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+E:\GitHubRepos\InternetShop\Contracts\obj\Debug\net5.0\Contracts.pdb

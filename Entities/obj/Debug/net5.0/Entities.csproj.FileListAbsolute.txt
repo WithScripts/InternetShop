@@ -1,0 +1,15 @@
+E:\GitHubRepos\InternetShop\Entities\bin\Debug\net5.0\Entities.deps.json
+E:\GitHubRepos\InternetShop\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+E:\GitHubRepos\InternetShop\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+E:\GitHubRepos\InternetShop\Entities\bin\Debug\net5.0\Entities.dll
+E:\GitHubRepos\InternetShop\Entities\bin\Debug\net5.0\ref\Entities.dll
+E:\GitHubRepos\InternetShop\Entities\bin\Debug\net5.0\Entities.pdb
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\Entities.dll
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\ref\Entities.dll
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\Entities.pdb
+E:\GitHubRepos\InternetShop\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache

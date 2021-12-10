@@ -1,0 +1,15 @@
+﻿@model IList<Product>
+<div>
+    @{ 
+        foreach (var obj in Model)
+            {
+                <div>
+                    <p>Name: @obj.Title</p>
+                    <p>Cost: @obj.Cost</p>
+                    <p>Description: @obj.Description</p>
+                    <p><img src="@obj.Picture"/></p>
+                    <p>Quantity: @obj.Quantity</p>
+                </div>
+            }
+    }
+</div>
